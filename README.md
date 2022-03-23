@@ -1,2 +1,0 @@
-# RocketAcademy
-Created with CodeSandbox
